@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "429c1f97-d74e-4278-bd8a-22f0022e675a": {
+      "ProjectGuid": "429c1f97-d74e-4278-bd8a-22f0022e675a",
+      "DisplayName": "StudentGradeApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

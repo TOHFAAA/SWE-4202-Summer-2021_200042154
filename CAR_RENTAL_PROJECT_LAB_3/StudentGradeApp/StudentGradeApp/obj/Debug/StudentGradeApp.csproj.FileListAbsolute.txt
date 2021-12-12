@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.Gradesapp.resources
+C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\bin\Debug\StudentGradeApp.exe.config
+C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\bin\Debug\StudentGradeApp.exe
+C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\bin\Debug\StudentGradeApp.pdb
+C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.exe
+C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.pdb
